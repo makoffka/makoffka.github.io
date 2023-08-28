@@ -1,9 +1,9 @@
-# Lab1 Questions 3 and 4:
+# Lab 1 Questions 3 and 4:
 
 ## Q3: Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
 
 ### A Deep Catalog of Human Genetic Variation.
-https://www.internationalgenome.org/data
+[https://www.internationalgenome.org/data](https://www.internationalgenome.org/data)
 
 
 
@@ -13,4 +13,4 @@ https://www.internationalgenome.org/data
 
 ### ggplot2: Elegant Graphics for Data Analysis (3e)
 
-https://ggplot2-book.org
+[https://ggplot2-book.org](https://ggplot2-book.org)
