@@ -1,4 +1,4 @@
-# Lab 1 Questions 3 and 4:
+# Web Exercise 1. Lab Questions 3 and 4:
 
 ## Q3: Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
 
