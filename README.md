@@ -13,6 +13,12 @@
 
 
 
-### ggplot2: Elegant Graphics for Data Analysis (3e)
+### R for Data Science (2e)
+Written by: Hadley Wickham, Mine Cetinkaya-Rundel
+& Garrett Grolemund (2023)
 
-[https://ggplot2-book.org](https://ggplot2-book.org)
+[https://r4ds.hadley.nz](https://r4ds.hadley.nz)
+
+
+This book covers the basics of analyzing Data in R. It walks the reader through all the steps from importing and cleaning the data to creating visualizations and modeling. It is a great benchmark book that can teach how Data Science works. 
+A great benefit of this book is that it is a second edition that came out in June, 2023 and therefore contains the latest trends and updates which is extremely important in such a fast developing field. Finally, the book is available for free and therefore anyone can access and benefit from it. 
