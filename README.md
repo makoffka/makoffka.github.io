@@ -4,8 +4,18 @@
 
 ## Q3: Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
 
-### A Deep Catalog of Human Genetic Variation.
+### IGSR: The International Genome Sample Resource
+
 [https://www.internationalgenome.org/data](https://www.internationalgenome.org/data)
+
+
+International Genome Sample Resource (IGSR) is a repository containing human genetic variations of various populations from all over the world. This data can be an invaluable source of information for researchers in the biomedical community. There are countless possible applications of this dataset. These are some of the examples to illustrate the potential value of IGSR:
+
+- It can help researchers understand which variations of the genome can be responsible for making some individuals/populations more prone to certain diseases such as cancer, or on the other hand, making them resistant. One of the well-known examples of such disease is Sickle Cell Anemia caused by a mutation in a hemoglobin beta gene (HBG).
+
+- Some populations are better accustomed to certain environmental conditions. For instance, Nepali people and their adaptation to life in high altitudes. Analyzing variations in their genome could shine a light on mutations responsible for such adaptations.
+
+- Analyzing this type of data could provide information about the evolution and migration patterns of early humans.
 
 
 
